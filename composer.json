@@ -1,12 +1,13 @@
 {
     "name": "denisof/city",
+	"version":"1.0.0",
     "authors": [
         {
             "name": "Denys Loschakov",
             "email": "dloschakov@gmail.com"
         }
     ],
-    "require": {},
-	"version":"1.0.0"
+    "require": {}
+	
 	 
 }
