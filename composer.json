@@ -1,0 +1,10 @@
+{
+    "name": "denisof/city",
+    "authors": [
+        {
+            "name": "Denys Loschakov",
+            "email": "dloschakov@gmail.com"
+        }
+    ],
+    "require": {}
+}
