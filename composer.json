@@ -6,5 +6,7 @@
             "email": "dloschakov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+	 {"version":"1.0.0"
+	 }
 }
