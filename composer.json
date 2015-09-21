@@ -6,7 +6,7 @@
             "name": "Denys Loschakov",
             "email": "dloschakov@gmail.com"
         }
-    ]
+    ],
     "autoload": {
         "files": ["src/MyLibrary/functions.php"]
     }
